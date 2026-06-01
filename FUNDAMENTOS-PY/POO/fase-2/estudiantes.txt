@@ -1,0 +1,3 @@
+Codigo: 555, Nombre: kei, Nota: 3.0, Estado: Aprueba
+Codigo: 222, Nombre: juan, Nota: 2.0, Estado: Reprueba
+Codigo: 234, Nombre: tomas, Nota: 4.0, Estado: Aprueba

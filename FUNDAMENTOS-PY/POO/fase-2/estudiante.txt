@@ -1,0 +1,3 @@
+codigo: 233 nombre: juan nota: 2.0 estado: reprueba
+codigo: 456 nombre: kai nota: 5.0 estado: aprueba
+codigo: 678 nombre: wil nota: 5.0 estado: aprueba
