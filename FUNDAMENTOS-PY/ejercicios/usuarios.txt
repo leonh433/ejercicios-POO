@@ -1,0 +1,8 @@
+
+Documento: 123456
+Nombre: kai
+Correo: m@gmail.com
+Rol: Instructor
+Estado: Activo
+
+-----------------
